@@ -11,3 +11,5 @@ def reverse_list(lista):
         Una nueva lista con los elementos en orden inverso
     """
     pass  # Reemplazar con tu implementación
+    lista.reverse()
+    return lista
