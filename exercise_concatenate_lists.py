@@ -1,5 +1,3 @@
-# Ejercicio 10: Concatenar listas
-
 def concatenate_lists(lista1, lista2):
     """
     Concatena dos listas en una sola.
@@ -11,6 +9,4 @@ def concatenate_lists(lista1, lista2):
     Returns:
         Una nueva lista con todos los elementos de lista1 seguidos de lista2
     """
- 
-    
     return lista1 + lista2
